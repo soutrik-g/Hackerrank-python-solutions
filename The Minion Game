@@ -1,6 +1,3 @@
-
-```py
-
 def minion_game(string):
     kevin_score = 0
     stuart_score = 0
@@ -14,6 +11,4 @@ def minion_game(string):
     elif(kevin_score<stuart_score):
         print("Stuart " + str(stuart_score))
     else:
-        print("Draw")
-        
-```
+        print("Draw")        
