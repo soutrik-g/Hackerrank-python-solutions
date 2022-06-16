@@ -13,4 +13,3 @@ if __name__ == '__main__':
                 if (list_for_x[i]+list_for_y[j]+list_for_z[k]!= n):
                     answer_list.append([list_for_x[i],list_for_y[j],list_for_z[k]])
                     print(answer_list)
-                    
